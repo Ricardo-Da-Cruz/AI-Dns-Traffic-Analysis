@@ -29,4 +29,26 @@ We made a correlation matrix and found that FlowReceivedRate and FlowSentRate ra
 
 The correlation matrix is shown below:
 ![img_1.png](results/img_1.png)
+
+# Most important features for each algorithm
+
+The pictures below represent the most important features for each algorithm, with and without PCA.
+![fav_feature_per algorithm](results/output10.png)
+![fav_feature_per algorithm_with_pca](results/output4.png)
+
+
+# Comparing the Algorithms
+
+In this section you can check som e comparison analysis between the algorithms used.
+
+![time_comparing_algorithms](results/output5.png)
+![time_comparing_algorithms_with_pca](results/output6.png)
+![time_comparing_algorithms_with_and_without_pca](results/output8.png)
+![time_comparing_algorithms_with_and_without_pca](results/output9.png)
+
+## Other important data
+![others](results/output7.png)
+
+
+
       
